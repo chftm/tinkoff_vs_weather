@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!README.md
+!LICENSE
+!data.csv
+!Analysis.nb
+!weather.ipynb
